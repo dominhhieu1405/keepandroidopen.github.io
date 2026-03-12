@@ -33,6 +33,7 @@ export const languages = {
   "fa": { label: "فارسی", path: "/fa/" },
 
   // South & Southeast Asian
+  "vi": { label: "Tiếng Việt", path: "/vi/" },
   "th": { label: "ไทย", path: "/th/" },
   "id": { label: "Indonesia", path: "/id/" },
   "tl": { label: "Tagalog", path: "/tl/" },
