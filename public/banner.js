@@ -52,6 +52,7 @@
     ja:      "Androidは閉鎖的なプラットフォームになろうとしています",
     fi:      "Androidista tulee suljettu alusta",
     hu:      "Az Android egy lezárt platform lesz",
+    vi:      "Android sẽ trở thành một hệ điều hành đóng",
   };
 
   // ── Parse query parameters from the script's own src URL ──────────────
