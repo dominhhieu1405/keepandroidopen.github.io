@@ -22,6 +22,7 @@ heading:
   zh-CN: "消费者：联系政府监管机构"
   zh-TW: "消費者：聯絡政府監管機構"
   ja: "消費者へ: 国の規制当局に連絡してください"
+  vi: "Người dùng: Liên hệ với cơ quan quản lý của chính phủ"
 
 intro:
   ar: "يشعر المنظمون في جميع أنحاء العالم بقلق بالغ إزاء الاحتكارات وتمركز السلطة في قطاع التكنولوجيا، ويرغبون في الاستماع مباشرةً إلى الأفراد المتضررين والمهتمين. عند التواصل مع المنظمين مباشرةً، ينبغي التحلي _باللباقة و الوضوح_ في شرح الضرر الذي تعتقد أن هذه السياسات ستسببه، سواءً للمستهلكين أو للمنافسة."
@@ -47,6 +48,7 @@ intro:
   zh-CN: "全球各地的监管机构对科技领域的垄断和权力集中深表关切，并希望直接倾听受到影响和关注此事的个人的声音。在直接联系监管机构时，您应该保持_礼貌_，并_具体_说明您认为这些政策将对消费者和竞争造成的危害。"
   zh-TW: "全球各地的監管機構對科技領域的壟斷和權力集中深表關切，並希望直接傾聽受到影響和關注此事的個人的聲音。在直接聯絡監管機構時，您應該保持_禮貌_，並_具體_說明您認為這些政策將對消費者和競爭造成的危害。"
   ja: "世界中の規制当局は、テクノロジー業界における独占と権力の集中を真に懸念しており、影響を受け懸念を抱く個人から直接意見を聞きたいと考えています。規制当局に直接連絡する際は、これらの政策が消費者と競争の両方に与えると考えられる害について、_礼儀正しく_、_具体的_ に述べてください。"
+  vi: "Các cơ quan quản lý trên toàn thế giới quan ngại sâu sắc về sự độc quyền và tập trung quyền lực trong lĩnh vực công nghệ, đồng thời muốn lắng nghe ý kiến ​​trực tiếp từ những cá nhân bị ảnh hưởng và có liên quan. Khi liên hệ trực tiếp với cơ quan quản lý, bạn phải _lịch sự_ và giải thích _cụ thể_ về tác hại mà bạn tin rằng những chính sách này sẽ gây ra cho người tiêu dùng và sự cạnh tranh."
 
 follow_up:
   ar: "تكون الشكاوى ذات تأثير بالغ، خاصةً عندما يُقدّمها مواطن من ذلك البلد أو المنطقة، وعندما تكون لغة البريد الإلكتروني إحدى اللغات الرسمية للهيئة الحاكمة في المنطقة. اطلبوا _إشعارًا كتابياً_ باستلام الشكوى، و يرجى إعادة توجيه أي ردود تتلقونها إلى [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) حتى نتمكن من تسليط الضوء عليها و الإشارة إليها."
@@ -72,6 +74,7 @@ follow_up:
   zh-CN: "当投诉是由该国家或地区的公民撰写，并且邮件语言是该地区管理机构的官方语言之一时，投诉的影响力尤为显著。请要求对投诉给予_书面确认_，并考虑将您收到的任何回复转发至 [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) ，以便我们突出显示并作为参考。"
   zh-TW: "當申訴是由該國家或地區的公民撰寫，並且電子郵件語言是該地區管理機構的官方語言之一時，申訴的影響力尤為顯著。請要求對申訴給予_書面確認_，並考慮將您收到的任何回覆轉發至 [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) ，以便我們突出顯示並作為參考。"
   ja: "苦情は、その国や地域の市民によって提出され、かつメールの言語が当該地域の統治機関の公用語のうちの一つで書かれている場合に特に効果的です。苦情の受理確認書を文書で請求し、受け取った回答は [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) に転送することをご検討ください。そうすることで、私達がそれらを強調し参照することが可能となります。"
+  vi: "Tác động của khiếu nại đặc biệt quan trọng khi nó được viết bởi công dân của quốc gia hoặc khu vực đó và ngôn ngữ email là một trong những ngôn ngữ chính thức của cơ quan quản lý khu vực. Vui lòng yêu cầu văn bản xác nhận đơn khiếu nại và cân nhắc chuyển tiếp mọi phản hồi bạn nhận được tới [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) để chúng tôi có thể đánh dấu và tham khảo chúng."
 
 countries:
   - id: united-states
@@ -96,6 +99,7 @@ countries:
       zh-CN: "美国"
       zh-TW: "美國"
       ja: "アメリカ合衆国"
+      vi: "Hoa Kỳ"
     items:
       - text:
           ar: "قدّم تقريراً إلى [قسم مكافحة الاحتكار التابع لوزارة العدل الأمريكية عبر الإنترنت](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)"
@@ -117,6 +121,7 @@ countries:
           pt-BR: "Faça um relato para o [US Department of Justice Antitrust Report Online](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)"
           zh-CN: "向[美国司法部在线反垄断报告](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)报告"
           zh-TW: "向[美國司法部線上反壟斷報告](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)報告"
+          vi: "Báo cáo cho [Báo cáo chống độc quyền trực tuyến của Bộ Tư pháp Hoa Kỳ](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)"
       - text:
           ar: "قدّم شكوى إلى [لجنة التجارة الفيدرالية الأمريكية: شكاوى مكافحة الاحتكار](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)"
           en: "File a complaint with the [US Federal Trade Commission: Antitrust Complaints](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)"
@@ -137,12 +142,14 @@ countries:
           pt-BR: "Faça uma reclamação junto à [US Federal Trade Commission: Antitrust Complaints](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)"
           zh-CN: "向[美国联邦贸易委员会：反垄断投诉](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)提出投诉"
           zh-TW: "向[美國聯邦貿易委員會：反壟斷申訴](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)提出申訴"
+          vi: "Gửi khiếu nại lên [Ủy ban Thương mại Liên bang Hoa Kỳ: Khiếu nại chống độc quyền](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)"
       - text:
           en: "[Find your House Representative](https://www.house.gov/representatives/find-your-representative)"
           da: "[Find din repræsentant i Repræsentanternes Hus](https://www.house.gov/representatives/find-your-representative)"
           tr: "[Temsilcinizi bulun](https://www.house.gov/representatives/find-your-representative)"
           zh-CN: "[寻找您的众议员](https://www.house.gov/representatives/find-your-representative)"
           zh-TW: "[尋找您的眾議員](https://www.house.gov/representatives/find-your-representative)"
+          vi: "[Tìm người đại diện của bạn](https://www.house.gov/representatives/find-your-representative)"
     children:
       - id: us-al
         name:
@@ -151,6 +158,7 @@ countries:
           da: "Alabama"
           zh-CN: "阿拉巴马州"
           zh-TW: "阿拉巴馬州"
+          vi: "Alabama"
         items:
           - text:
               en: "File a complaint with the [Alabama Attorney General Consumer Protection](https://www.alabamaag.gov/consumer-complaint/)"
