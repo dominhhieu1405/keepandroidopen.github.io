@@ -19,8 +19,8 @@ heading:
   uk: "Споживачі: Звертайтеся до національних регуляторів"
   pl: "Konsumenci: Skontaktujcie się z krajowymi regulatorami"
   pt-BR: "Consumidores: Contatem os órgãos reguladores nacionais"
-  zh-CN: "消费者：联系国家监管机构"
-  zh-TW: "消費者：聯絡國家監管機構"
+  zh-CN: "消费者：联系政府监管机构"
+  zh-TW: "消費者：聯絡政府監管機構"
   ja: "消費者へ: 国の規制当局に連絡してください"
 
 intro:
@@ -2184,21 +2184,22 @@ countries:
       ja: "スイス"
     items:
       - text:
-          ar: "قدّم تقريراً إلى [لجنة المنافسة](https://www.weko.admin.ch/weko/en/home/kontakt/kontakt.html)"
-          en: "File a report with the [Competition Commission](https://www.weko.admin.ch/weko/en/home/kontakt/kontakt.html)"
-          de: "Melden Sie eine mögliche Wettbewerbsbeschränkung bei der [Wettbewerbskommission (WEKO)](https://www.weko.admin.ch/weko/de/home/kontakt/kontakt.html)"
-          ru: "Подайте обращение в [Competition Commission](https://www.weko.admin.ch/weko/en/home/kontakt/kontakt.html)"
-          it: "Presenta una segnalazione [Competition Commission](https://www.weko.admin.ch/weko/en/home/kontakt/kontakt.html)"
-          cs: "Podejte oznámení u [Komise pro hospodářskou soutěž](https://www.weko.admin.ch/weko/en/home/kontakt/kontakt.html)"
-          sk: "Podajte správu [Komisii pre hospodársku súťaž](https://www.weko.admin.ch/weko/en/home/kontakt/kontakt.html)"
-          el: "Υποβάλετε μία αναφορά στην [Επιτροπή Ανταγωνισμού](https://www.weko.admin.ch/weko/en/home/kontakt/kontakt.html)"
-          th: "ยื่นรายงานต่อ [คณะกรรมการการแข่งขัน](https://www.weko.admin.ch/weko/en/home/kontakt/kontakt.html)"
-          id: "Ajukan laporan ke [Komisi Persaingan Usaha](https://www.weko.admin.ch/weko/en/home/kontakt/kontakt.html)"
-          tr: "[Rekabet Komisyonu](https://www.weko.admin.ch/weko/en/home/kontakt/kontakt.html) ile bir rapor sunun."
-          uk: "Подати звіт до [Комісії з питань конкуренції](https://www.weko.admin.ch/weko/en/home/kontakt/kontakt.html)"
-          pl: "Zgłoś sprawę do [Competition Commission](https://www.weko.admin.ch/weko/en/home/kontakt/kontakt.html)"
-          zh-CN: "向 [竞争委员会](https://www.weko.admin.ch/weko/en/home/kontakt/kontakt.html) 提交报告"
-          zh-TW: "向 [競爭委員會](https://www.weko.admin.ch/weko/en/home/kontakt/kontakt.html) 提交報告"
+          ar: "قدّم تقريراً إلى [لجنة المنافسة](https://www.weko.admin.ch/en/information-about-unlawful-practices)"
+          en: "File a report with the [Competition Commission](https://www.weko.admin.ch/en/information-about-unlawful-practices)"
+          de: "Melden Sie eine mögliche Wettbewerbsbeschränkung bei der [Wettbewerbskommission (WEKO)](https://www.weko.admin.ch/de/hinweise-zu-unzulaessigen-verhaltensweisen)"
+          fr: "Déposer une plainte auprès de la [Commission de la concurrence](https://www.weko.admin.ch/fr/informations-sur-les-comportements-illicites)"
+          ru: "Подайте обращение в [Competition Commission](https://www.weko.admin.ch/en/information-about-unlawful-practices)"
+          it: "Presenta una segnalazione [Competition Commission](https://www.weko.admin.ch/it/segnalazioni-di-comportamenti-illeciti)"
+          cs: "Podejte oznámení u [Komise pro hospodářskou soutěž](https://www.weko.admin.ch/en/information-about-unlawful-practices)"
+          sk: "Podajte správu [Komisii pre hospodársku súťaž](https://www.weko.admin.ch/en/information-about-unlawful-practices)"
+          el: "Υποβάλετε μία αναφορά στην [Επιτροπή Ανταγωνισμού](https://www.weko.admin.ch/en/information-about-unlawful-practices)"
+          th: "ยื่นรายงานต่อ [คณะกรรมการการแข่งขัน](https://www.weko.admin.ch/en/information-about-unlawful-practices)"
+          id: "Ajukan laporan ke [Komisi Persaingan Usaha](https://www.weko.admin.ch/en/information-about-unlawful-practices)"
+          tr: "[Rekabet Komisyonu](https://www.weko.admin.ch/en/information-about-unlawful-practices) ile bir rapor sunun."
+          uk: "Подати звіт до [Комісії з питань конкуренції](https://www.weko.admin.ch/en/information-about-unlawful-practices)"
+          pl: "Zgłoś sprawę do [Competition Commission](https://www.weko.admin.ch/en/information-about-unlawful-practices)"
+          zh-CN: "向 [竞争委员会](https://www.weko.admin.ch/en/information-about-unlawful-practices) 提交报告"
+          zh-TW: "向 [競爭委員會](https://www.weko.admin.ch/en/information-about-unlawful-practices) 提交報告"
   - id: australia
     name:
       ar: "أستراليا"
@@ -2302,6 +2303,24 @@ countries:
           pt-BR: "Entre em contato com seu deputado local ou senador estadual. Se você não souber seu eleitorado, pode encontrá-lo [aqui](https://electorate.aec.gov.au/) e pode buscar seus parlamentares ou senadores [aqui](https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results)."
           zh-CN: "联系您当地的国会议员或州参议员。如果您不知道您的选区，可以在[这里](https://electorate.aec.gov.au/)找到；您可以在[这里](https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results)搜索您的国会议员或参议员。"
           zh-TW: "聯絡您當地的國會議員或州參議員。如果您不知道您的選區，可以在[這裡](https://electorate.aec.gov.au/)找到；您可以在[這裡](https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results)搜尋您的國會議員或參議員。"
+  - id: new-zealand
+    name:
+      en: "Aotearoa / New Zealand"
+    items:
+      - text:
+          en: "Email: [contact@comcom.govt.nz](mailto:contact@comcom.govt.nz?cc=nz@keepandroidopen.org)"
+      - text:
+          en: "Phone: [0800 943 600](tel:08009436000)"
+      - text:
+          en: "Report anti-competitive conduct to the [Commerce Commission](https://www.comcom.govt.nz/report-a-concern/)"
+      - text:
+          en: "Contact the Minister of Commerce and Consumer Affairs, Hon Scott Simpson: [scott.simpson@parliament.govt.nz](mailto:scott.simpson@parliament.govt.nz)"
+      - text:
+          en: "Contact your local Member of Parliament. If you don't know your electorate, find it at [vote.nz](https://www.vote.nz)"
+      - text:
+          en: "Contact [InternetNZ](https://internetnz.nz) — the non-profit advocate for an open internet in Aotearoa: [office@internetnz.net.nz](mailto:office@internetnz.net.nz)"
+      - text:
+          en: "Contact [Consumer NZ](https://www.consumer.org.nz/about/contact-us) — Aotearoa's independent consumer advocacy organisation. Ask them to lodge a formal complaint to the Commerce Commission on behalf of consumers."
   - id: japan
     name:
       fa: "ژاپن"
@@ -2560,7 +2579,7 @@ countries:
           zh-TW: "電子郵件：[info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?cc=canada@keepandroidopen.org)"
       - text:
           ar: "قدّم شكوى إلى [مكتب المنافسة الكندي](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)"
-          en: "Make a complaint to [Competition Bureau Canada](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)"
+          en: "Make a complaint to the [Competition Bureau Canada](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)"
           da: "Indsend en klage til [Competition Bureau Canada](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)"
           ru: "Подайте жалобу в [Competition Bureau Canada](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)"
           de: "Reichen Sie eine Beschwerde beim [Wettbewerbsbüro Kanadas](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form) ein."
@@ -2578,26 +2597,6 @@ countries:
           pt-BR: "Faça uma reclamação na [Competition Bureau Canada](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)"
           zh-CN: "向[加拿大竞争局](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)提出投诉"
           zh-TW: "向[加拿大競爭局](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)提出申訴"
-      - text:
-          ar: "قدّم بلاغاً إلى [https://competition-bureau.canada.ca/en](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)"
-          en: "File a report with the [https://competition-bureau.canada.ca/en](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)"
-          da: "Indsend en indberetning til [https://competition-bureau.canada.ca/en](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)"
-          ru: "Подайте обращение через [https://competition-bureau.canada.ca/en](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)"
-          de: "Reichen Sie einen Bericht über dasselbe [Online-Formular](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form) ein."
-          fr: "Déposer un rapport auprès du [https://competition-bureau.canada.ca/en](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)"
-          es: "Presentar un informe ante la [Oficina de Protección al Consumidor de Ontario (https://competition-bureau.canada.ca/en)](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)"
-          it: "Presenta una segnalazione [https://competition-bureau.canada.ca/en](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)"
-          cs: "Podejte oznámení na [https://competition-bureau.canada.ca/en](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)"
-          sk: "Podajte správu na [Kanadský úrad pre spravodlivý obchod (https://competition-bureau.canada.ca/en)](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)"
-          el: "Κάνετε μια αναφορά στο [https://competition-bureau.canada.ca/en](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)"
-          th: "ยื่นรายงานต่อ [https://competition-bureau.canada.ca/en](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)"
-          id: "Ajukan laporan ke [https://competition-bureau.canada.ca/en](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)"
-          tr: "Bu kuruma bir rapor iletin: [https://competition-bureau.canada.ca/en](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)"
-          uk: "Подати звіт за посиланням [https://competition-bureau.canada.ca/en](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)"
-          pl: "Zgłoś sprawę przez [https://competition-bureau.canada.ca/en](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)"
-          pt-BR: "Registre uma denúncia com [https://competition-bureau.canada.ca/en](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)"
-          zh-CN: "向 [https://competition-bureau.canada.ca/en](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form) 提交报告"
-          zh-TW: "向 [https://competition-bureau.canada.ca/en](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form) 提交報告"
   - id: taiwan
     name:
       fa: "تایوان"
@@ -2660,6 +2659,20 @@ countries:
           pt-BR: "Entre em contato com a [Fair Trade Commission (FTC)](https://www.ftc.gov.tw/)"
           zh-CN: "联系[公平交易委员会 (FTC)](https://www.ftc.gov.tw/)"
           zh-TW: "聯絡[公平交易委員會 (FTC)](https://www.ftc.gov.tw/)"
+  - id: hongkongsar
+    name:
+      en: "Hong Kong SAR"
+      zh-CN: "香港"
+      zh-TW: "香港"
+    items:
+      - text:
+          en: "Email: [complaints@compcomm.hk](mailto:complaints@compcomm.hk?cc=hongkong@keepandroidopen.org)"
+          zh-CN: "电子邮件：[complaints@compcomm.hk](mailto:complaints@compcomm.hk?cc=hongkong@keepandroidopen.org)"
+          zh-TW: "電子郵件：[complaints@compcomm.hk](mailto:complaints@compcomm.hk?cc=hongkong@keepandroidopen.org)"
+      - text:
+          en: "Contact the [Competition Commission](https://www.compcomm.hk/en/applications/make_a_complaint/complaint.html)"
+          zh-CN: "联系[竞争事务委员会](https://www.compcomm.hk/sc/applications/make_a_complaint/complaint.html)"
+          zh-TW: "聯絡[競爭事務委員會](https://www.compcomm.hk/tc/applications/make_a_complaint/complaint.html)"
   - id: turkey
     name:
       fa: "ترکیه"
@@ -3142,21 +3155,38 @@ countries:
     name:
         ar: "جمهورية مصر العربية"
         en: "Egypt"
+        zh-CN: "埃及"
+        zh-TW: "埃及"
     items:
     - text:
         ar: "تواصل مع [جهاز حماية المنافسة](https://eca.org.eg/ar-eg)"
         en: "Contact the [Egyptian Competition Authority](https://eca.org.eg/en-us/%D8%AC%D9%87%D8%A7%D8%B2-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B3%D8%A9/%D8%AC%D9%87%D8%A7%D8%B2-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B3%D8%A9/%D8%B9%D9%86-%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%B2)"
+        zh-CN: "联系 [埃及竞争管理局（Egyptian Competition Authority）](https://eca.org.eg/en-us/%D8%AC%D9%87%D8%A7%D8%B2-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B3%D8%A9/%D8%AC%D9%87%D8%A7%D8%B2-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B3%D8%A9/%D8%B9%D9%86-%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%B2)"
     - text:
         ar: "[info@eca.org.eg](mailto:info@eca.org.eg?cc=egypt@keepandroidopen.org) :البريد الإلكتروني"
         en: "Email: [info@eca.org.eg](mailto:info@eca.org.eg?cc=egypt@keepandroidopen.org)"
+        zh-CN: "电子邮件: [info@eca.org.eg](mailto:info@eca.org.eg?cc=egypt@keepandroidopen.org)"
   - id: hungary
     name:
       en: "Hungary"
       hu: "Magyarország"
+      zh-CN: "匈牙利"
+      zh-TW: "匈牙利"
     items:
       - text:
           en: "E-mail: [ugyfelszolgalat@gvh.hu](mailto:ugyfelszolgalat@gvh.hu?cc=hungary@keepandroidopen.org)"
           hu: "E-mail: [ugyfelszolgalat@gvh.hu](mailto:ugyfelszolgalat@gvh.hu?cc=hungary@keepandroidopen.org)"
+          zh-CN: "电子邮件: [ugyfelszolgalat@gvh.hu](mailto:ugyfelszolgalat@gvh.hu?cc=hungary@keepandroidopen.org)"
       - text:
           en: "Contact the [Hungarian Competition Authority (Gazdasági Versenyhivatal)](https://www.gvh.hu/en/gvh/2361_en_contact_us)"
           hu: "Vedd fel a kapcsolatot a [Gazdasági Versenyhivatallal](https://www.gvh.hu/gvh/2361_hu_elerhetosegek_kapcsolatok)"
+  - id: colombia
+    name:
+      en: "Colombia"
+      es: "Colombia"
+      pt-BR: "Colômbia"
+    items:
+      - text:
+          en: Make a report to the [Superintendence of Industry and Commerce](https://servicioslinea.sic.gov.co/servilinea/pqrsf/)
+          es: Presentar una denuncia ante la [Superintendencia de Industria y Comercio](https://servicioslinea.sic.gov.co/servilinea/pqrsf/)
+          pt-BR: Faça um relato para a [Superintendência de Indústria e Comércio](https://servicioslinea.sic.gov.co/servilinea/pqrsf/)

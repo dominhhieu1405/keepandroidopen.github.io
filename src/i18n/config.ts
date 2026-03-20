@@ -11,7 +11,7 @@ export const languages = {
 
   // Western European – Germanic & Nordic
   "de": { label: "Deutsch", path: "/de/" },
-  "da": { label: "dansk", path: "/da/" },
+  "da": { label: "Dansk", path: "/da/" },
   "fi": { label: "Suomi", path: "/fi/" },
   "nl": { label: "Nederlands", path: "/nl/" },
 
@@ -29,6 +29,7 @@ export const languages = {
   "kk": { label: "Қазақша", path: "/kk/" },
 
   // Middle Eastern
+  "he": { label: "עברית", path: "/he/" },
   "ar": { label: "العربية", path: "/ar/" },
   "fa": { label: "فارسی", path: "/fa/" },
 
@@ -37,12 +38,16 @@ export const languages = {
   "th": { label: "ไทย", path: "/th/" },
   "id": { label: "Indonesia", path: "/id/" },
   "tl": { label: "Tagalog", path: "/tl/" },
+  "bn": { label: "বাংলা", path: "/bn/" },
+  "hi": { label: "हिंदी", path: "/hi/"},
+  
 
   // CJK (East Asian)
   "zh-CN": { label: "简体中文", path: "/zh-CN/" },
   "zh-TW": { label: "正體中文", path: "/zh-TW/" },
   "ja": { label: "日本語", path: "/ja/" },
   "ko": { label: "한국어", path: "/ko/" },
+  
 } as const;
 
 export type Locale = keyof typeof languages;

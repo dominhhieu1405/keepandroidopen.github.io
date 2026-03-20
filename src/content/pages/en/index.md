@@ -43,13 +43,24 @@ This registration will involve:
 
 <div class="callout-warning">
 
-### Update: Google has **not** "backed down" from developer verification {#clarification}
+### Update: Google has revealed the "advanced flow" — it is not a solution
 
-Contrary to a vague [mention](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html) of a possible "advanced flow" that may eventually allow "experienced users to accept the risks of installing software that isn't verified", Google's [description of the program](https://developer.android.com/developer-verification) continues to state plainly that:
+On March 19, 2026, Google [published details](https://android-developers.googleblog.com/2026/03/android-developer-verification.html) of the "advanced flow" mechanism intended for "power users" to allow installation of applications from unverified developers after the lockdown takes effect. It goes like this:
 
-> Starting in September 2026, Android will require all apps to be registered by verified developers in order to be installed on certified Android devices
+1. Enable [Developer Mode](https://www.android.com/intl/en_uk/articles/enable-android-developer-settings/) by tapping the software build number in _About Phone_ **seven times**
+1. In Settings > System, open Developer Options and scroll down to “Allow Unverified Packages.”
+1. Flip the toggle and answer a scare screen confirming that you are not being coerced
+1. Enter our device unlock pin/password
+1. Restart your device
+1. **Wait 24 hours**
+1. Return to the unverified packages menu at the end of the security delay
+1. Scroll past additional scare screen warnings and select either “Allow temporarily” (seven days) or “Allow indefinitely.”
+1. On the next scare screen, confirm that you understand the risks.
+1. You can now install unverified packages on the device by tapping the “Install anyway” option in the package manager.
 
-Until such time that they have shown evidence that it will be possible to bypass the verification process without undue friction, we must believe what is stated on their official page: that **all** apps from non-registered developers **will be blocked** once their lock-down goes into effect.
+This entire flow is delivered through Google Play Services, not the Android OS, meaning Google can modify, restrict, or remove it at any time without an OS update and without any user consent. The advanced flow has still not appeared in any Android beta, dev preview, or canary release. As of the date of this update, it exists only as a blog post and UI mockups. The community is being asked to accept a product announcement as a functional safeguard five months before the mandate takes effect.
+
+Until Google provides a shipping implementation that can be independently verified, our position remains unchanged: **all** apps from non-registered developers **will be blocked** once their lockdown goes into effect in September 2026.
 
 </div>
 
